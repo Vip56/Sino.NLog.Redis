@@ -15,7 +15,7 @@
 ```
 该配置表示将该扩展插件加载，然后需要增加对应的`target`：
 ```
-    <target xsi:type="redis" name="redis" includeAllProperties="true" host="127.0.0.1" port="6379" redisKey="logstash" >
+    <target xsi:type="redis" name="redis" host="127.0.0.1" port="6379" redisKey="logstash" >
       <layout xsi:type="JsonLayout">
         <attribute name="type" layout="tms" />
         <attribute name="date" layout="${longdate}" />
