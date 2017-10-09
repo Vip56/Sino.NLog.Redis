@@ -1,4 +1,6 @@
 ﻿# Sino.NLog.Redis
+[![Build status](https://ci.appveyor.com/api/projects/status/qtl43c8pfo3t4xxk/branch/master?svg=true)](https://ci.appveyor.com/project/vip56/sino-nlog-redis/branch/master)  
+
 
 ### 简介
 ----

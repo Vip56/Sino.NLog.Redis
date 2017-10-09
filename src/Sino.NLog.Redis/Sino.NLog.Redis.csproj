@@ -2,10 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.6</TargetFramework>
-    <Authors>sino</Authors>
-    <Company>sino</Company>
+    <Authors>Sino</Authors>
+    <Company>Sino</Company>
     <Description>提供NLog支持Redis</Description>
     <Version>1.0.0-beta-1</Version>
+    <PackageIconUrl>https://avatars0.githubusercontent.com/u/16951448?v=3&amp;s=70</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/Vip56/Sino.NLog.Redis</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Vip56/Sino.NLog.Redis</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
