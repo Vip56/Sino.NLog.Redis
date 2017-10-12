@@ -14,7 +14,7 @@
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="10.0.1" />
-    <PackageReference Include="NLog" Version="5.0.0-beta04" />
+    <PackageReference Include="NLog" Version="5.0.0-beta10" />
     <PackageReference Include="Sino.Extensions.Redis" Version="1.0.3" />
   </ItemGroup>
 
